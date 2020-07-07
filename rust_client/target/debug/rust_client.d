@@ -1,1 +1,0 @@
-C:\Users\surapati\OneDrive\ -\ Qualcomm\Documents\rust_practice\projects\rust_client\target\debug\rust_client.exe: C:\Users\surapati\OneDrive\ -\ Qualcomm\Documents\rust_practice\projects\rust_client\src\main.rs
