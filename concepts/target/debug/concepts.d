@@ -1,1 +1,0 @@
-C:\Users\surapati\OneDrive\ -\ Qualcomm\Documents\rust_practice\projects\concepts\target\debug\concepts.exe: C:\Users\surapati\OneDrive\ -\ Qualcomm\Documents\rust_practice\projects\concepts\src\main.rs
